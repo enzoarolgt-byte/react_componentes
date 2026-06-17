@@ -9,7 +9,7 @@ function App() {
 
       <main className="mx-auto max-w-5xl px-6 py-16">
         <div className="group bg-slate-900/30 border border-slate-800/60 hover:border-cyan-500/30 rounded-2xl p-8 md:p-12 shadow-[0_0_15px_rgba(0,0,0,0.5)] hover:shadow-[0_0_40px_-10px_rgba(6,182,212,0.3)] backdrop-blur-md transition-all duration-700">
-          <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent drop-shadow-[0_0_15px_rgba(6,182,212,0.4)] transition-all duration-500 group-hover:drop-shadow-[0_0_25px_rgba(6,182,212,0.7)]">
+          <h2 className="text-3xl font-extrabold tracking-tight sm:text-4xl mb-6 bg-linear-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent drop-shadow-[0_0_15px_rgba(6,182,212,0.4)] transition-all duration-500 group-hover:drop-shadow-[0_0_25px_rgba(6,182,212,0.7)]">
             Conoce más sobre la Programación
           </h2>
           <p className="text-slate-300/80 leading-relaxed text-base sm:text-lg mb-8 transition-colors duration-500 group-hover:text-slate-200">
